@@ -362,24 +362,18 @@ table td {
     .article_feed {
     	padding: 0 !important;
 	flex-direction: column !important;
-	-webkit-text-decoration: none !important;
 	}
 
     .article_feed a {
     	text-decoration: none !important;
-	-webkit-text-decoration: none !important;
 	}
 
     .article_left {
     	padding-right: 1em !important;
-	padding-right: 1em !important;
+	padding-left: 1em !important;
+	margin: auto;
     	max-width: none !important;
     	min-width: none !important;
-	}
-	
-    .article_left a {
-	text-decoration: none !important;
-	-webkit-text-decoration: none !important;
 	}
 	
     .article_right {
