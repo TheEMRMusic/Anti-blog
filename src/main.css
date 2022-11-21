@@ -127,6 +127,7 @@ a {
     margin: 0;
     padding: 0;
     vertical-align: baseline;
+    text-decoration: none !important;
 }
 a:hover {
 	color: var(--color100);
@@ -341,9 +342,9 @@ table td {
         font-size: 3.5em !important;
         }
 	
-    blockquote {
-        padding: 0 !important;
-        }
+    aside {
+    	width: 100% !important;
+	}
 	
     .hero_title {
 	font-size: 4em !important;
