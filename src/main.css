@@ -258,7 +258,7 @@ table td {
 
 .article_feed {
     border-style: solid;
-    border-width: .15em;
+    border-width: .05em;
     border-radius: 1em;
     padding: 3em;
     margin-bottom: 4em;
@@ -291,6 +291,7 @@ table td {
     justify-content: center;
     align-items: center;
     border-left: solid;
+    border-width: .05em;
 }
 
 .article_title {
