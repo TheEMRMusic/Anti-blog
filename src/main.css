@@ -334,6 +334,18 @@ table td {
     	line-height: 2em !important;
 	}
 	
+    h1 {
+        font-size: 3.5em !important;
+        }
+	
+    .hero_title {
+	font-size: 4em !important;
+        }
+
+    .hero_subtitle {
+        font-size: 1em !important;
+        }
+	
     img,
     picture {
 	max-width: 100% !important;
@@ -344,13 +356,12 @@ table td {
 	flex-direction: column !important;
 	}
 
-    .article_feed a {
+    .article_feed a:link {
     	text-decoration: none !important;
 	}
 
     .article_left {
     	padding-right: 1em !important;
-	text-decoration: none !important;
 	padding-right: 1em !important;
     	max-width: none !important;
     	min-width: none !important;
