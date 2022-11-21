@@ -200,8 +200,7 @@ table td {
   list-style-type: none;
   width: 100%;
   margin: 0 auto;
-  padding: 0;
-  padding-bottom: 2em;
+  padding: 1em 0 1em 0;
   overflow: hidden;
   border-bottom: solid;
   border-width: .05em;
