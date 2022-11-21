@@ -1,12 +1,12 @@
 :root {
-	--color100: #DAB3AD;
+	--color100: #E8CEC5;
 	--color200: #F5E8DC;
-	--color300: #C2817D;
+	--color300: #C39891;
 	--color400: #9D615C;
-	--color500: #604149;
-	--color600: #231F2F;
-	--color700: #15121F;
-	--color800: #05040F;
+	--color500: #7D4C48;
+	--color600: #5D3733;
+	--color700: #3D221F;
+	--color800: #1D0C0A;
 }
 
 @font-face {
