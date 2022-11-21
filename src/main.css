@@ -325,16 +325,16 @@ table td {
 /* Mobile Styles */
 
 @media screen and (max-width:640px) {
-    html {width: 95vw !important;
+    html {width: 90vw !important;
 	font-size: 80% !important;}
     img,
     picture {max-width: 100% !important;}
     .article_feed {
     	padding: 1em !important;
-    	text-decoration: none !important;
 	}
 
 .article_left {
     	padding-right: 1em !important;
+	text-decoration: none !important;
 	}
 }
