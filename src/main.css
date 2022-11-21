@@ -33,14 +33,14 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 70%;
   overflow-y: scroll;
   padding: 1em;
   margin: auto;
   width: 80vw;
   max-width: 1000px;
-  -webkit-text-size-adjust: 62.5%;
-  -ms-text-size-adjust: 62.5%;
+  -webkit-text-size-adjust: 70%;
+  -ms-text-size-adjust: 70%;
 }
 
 @media screen and (max-width:640px) {
@@ -50,8 +50,10 @@ html {
 /* Make images easier to work with */
 img,
 picture {
-  max-width: 100%;
+  max-width: 80%;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 1em;
 }
 
@@ -61,7 +63,7 @@ body {
     font-size: 1.7em;
 	background-color: var(--color800);
 	color: var(--color200);
-    line-height: 1.5em;
+    line-height: 1.7em;
     text-align: justify;
 }
 
