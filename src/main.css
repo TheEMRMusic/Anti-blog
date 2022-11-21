@@ -44,7 +44,7 @@ html {
 }
 
 @media screen and (max-width:640px) {
-    html {font-size: 50% !important;}
+    html {font-size: 65% !important;}
 	img,
 	picture {max-width: 100% !important;}
 }
