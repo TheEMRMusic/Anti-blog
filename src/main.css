@@ -258,6 +258,7 @@ table td {
 
 .article_feed {
     border-style: solid;
+    border-width: .15em;
     border-radius: 1em;
     padding: 3em;
     margin-bottom: 4em;
