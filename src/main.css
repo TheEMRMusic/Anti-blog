@@ -246,7 +246,7 @@ table td {
     font-style: normal;
     padding-left: .5em;
     border-left: solid;
-    border-width: .05em;
+    border-width: .05em !important;
     border-color: var(--color200);
 }
 
