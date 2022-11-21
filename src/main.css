@@ -163,7 +163,7 @@ aside {
 blockquote {
     font-style: italic;
     padding: 1em;
-    background-color: var(--color500);
+    background-color: var(--color700);
     border-radius: 1em;
 }
 blockquote p {
