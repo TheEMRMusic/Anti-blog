@@ -201,10 +201,11 @@ table td {
   width: 100%;
   margin: 0 auto;
   padding: 0;
+  padding-bottom: 2em;
   overflow: hidden;
   border-bottom: solid;
   border-width: .05em;
-  border-color: var(--color200);
+  border-color: var(--color400);
 }
 
 .nav_link {
