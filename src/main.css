@@ -341,6 +341,10 @@ table td {
         font-size: 3.5em !important;
         }
 	
+    blockquote {
+        padding: 0 !important;
+        }
+	
     .hero_title {
 	font-size: 4em !important;
         }
@@ -355,7 +359,7 @@ table td {
 	}
 	
     .article_feed {
-    	padding: none !important;
+    	padding: 0 !important;
 	flex-direction: column !important;
 	-webkit-text-decoration: none !important;
 	}
@@ -370,6 +374,11 @@ table td {
 	padding-right: 1em !important;
     	max-width: none !important;
     	min-width: none !important;
+	}
+	
+    .article_left a {
+	text-decoration: none !important;
+	-webkit-text-decoration: none !important;
 	}
 	
     .article_right {
