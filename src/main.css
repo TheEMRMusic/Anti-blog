@@ -326,7 +326,10 @@ table td {
 
 @media screen and (max-width:640px) {
     html {width: 90vw !important;
-	font-size: 80% !important;}
+	font-size: 90% !important;}
+    body {;
+    	line-height: 2em !important;
+	}
     img,
     picture {max-width: 100% !important;}
     .article_feed {
