@@ -44,9 +44,10 @@ html {
 }
 
 @media screen and (max-width:640px) {
-    html {font-size: 65% !important;}
-	img,
-	picture {max-width: 100% !important;}
+    html {width: 98vw !important;
+	font-size: 80% !important;}
+    img,
+    picture {max-width: 100% !important;}
 }
 
 /* Make images easier to work with */
@@ -268,6 +269,7 @@ table td {
     display: flex;
     justify-content: left;
     text-align: left;
+    text-decoration: none;
 }
 
 .article_feed:hover {
