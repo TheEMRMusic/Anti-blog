@@ -169,12 +169,13 @@ blockquote {
     padding: 1em;
     background-color: var(--color700);
     border-radius: 1em;
-	border-left: solid;
-	border-color: var(--color600);
-	border-width: .5em;
 }
 blockquote p {
     color: var(--color300);
+	border-left: solid;
+	border-color: var(--color600);
+	border-width: .15em;
+	padding-left: .5em;
 }
 hr {
     border-style: dashed;
