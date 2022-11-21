@@ -1,0 +1,319 @@
+:root {
+	--color100: #EAF0D8;
+	--color200: #C0C9C6;
+	--color300: #96A2B3;
+	--color400: #596070;
+	--color500: #4D4D59;
+	--color600: #413A42;
+	--color700: #302D36;
+	--color800: #1F1F29;
+}
+
+@font-face {
+  font-family: 'HappyTimes';
+  src:  url('../fonts/happy-times-NG_regular_master_web.woff2') format('woff2'),
+        url('../fonts/happy-times-NG_regular_master_web.woff') format('woff'),
+        url('../fonts/happy-times-NG_regular_master_web.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'HappyTimes';
+  src:  url('../fonts/happy-times-NG_bold_master_web.woff2') format('woff2'),
+        url('../fonts/happy-times-NG_bold_master_web.woff') format('woff'),
+        url('../fonts/happy-times-NG_bold_master_web.ttf') format('ttf');
+        font-weight: bold;
+}
+
+@font-face {
+  font-family: 'HappyTimes';
+  src:  url('../fonts/happy-times-NG_italic_master_web.woff2') format('woff2'),
+        url('../fonts/happy-times-NG_italic_master_web.woff') format('woff'),
+        url('../fonts/happy-times-NG_italic_master_web.ttf') format('ttf');
+        font-style: italic;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-y: scroll;
+  padding: 1em;
+  margin: auto;
+  width: 80vw;
+  max-width: 1000px;
+  -webkit-text-size-adjust: 62.5%;
+  -ms-text-size-adjust: 62.5%;
+}
+
+@media screen and (max-width:640px) {
+    html {font-size: 50% !important;}
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+  border-radius: 1em;
+}
+
+body {
+    margin: auto;
+    font-family: 'HappyTimes';
+    font-size: 1.7em;
+	background-color: var(--color800);
+	color: var(--color200);
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+button {
+	display: inline-block;
+	margin-right: 1em;
+	width: 9em;
+    outline: 0;
+    align-items: center;
+    background: 0 0;
+	color: var(--color200);
+    border: .125em solid var(--color200);
+    border-radius: .25em;
+    cursor: pointer;
+    font-size: 1em;
+    justify-content: center;
+    line-height: 1.5;
+    overflow: hidden;
+    padding: 1em;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    transition: all .14s ease-out;
+    white-space: nowrap;
+}
+
+button:hover {
+    box-shadow: 4px 4px 0 var(--color200);
+     transform: translate(-4px,-4px);
+}
+
+button:focus-visible{
+    outline-offset: 1px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color100);
+    text-align: left;
+    line-height: 1.1em;
+    font-style: italic;
+}
+p {
+    margin-bottom: 1em;
+    padding: 0;
+}
+h1 {
+    font-size: 5em;
+    font-weight: bold;
+}
+h2 {
+    font-size: 2.5em;
+}
+h3 {
+    font-size: 2em;
+}
+h4 {
+    font-size: 1.5em;
+}
+h5 {
+    font-size: 1.25em;
+}
+a {
+    color: var(--color300);
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+	color: var(--color100);
+}
+p {
+    margin-top:0;
+    -webkit-hypens:auto;
+    -moz-hypens:auto;
+    hyphens:auto;
+    }
+ul {
+    list-style: square;
+    padding-left:1.2em;
+    }
+ol {
+    padding-left:1.2em;
+    }
+pre {
+    padding: 0 2em;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5em;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    font-style: italic;
+    padding: 1em;
+    background-color: var(--color500);
+    border-radius: 1em;
+}
+blockquote p {
+    color: var(--color300);
+}
+hr {
+    border-style: dashed;
+    border-width: .01em;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1em 1em;
+    border: 1px solid #CCC;
+}
+table thead {
+    background-color: #EEE;
+}
+table thead td {
+    color: #666;
+}
+table td {
+    padding: 0.5em 1em;
+    border: 1px solid #CCC;
+}
+
+/* Nav Bar Class Styling */
+
+.nav {
+  list-style-type: none;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+}
+
+.nav_link {
+  float: left;
+}
+
+.nav_link:last-child {
+  border-right: none;
+  float: right;
+}
+
+.nav_link a {
+  display: block;
+  color: var(--color200);
+  text-align: center;
+  padding: 1em 1em;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.nav_link a:hover {
+    color: var(--color100);
+  }
+
+
+/* Home Page Class Styles */
+
+.center_screen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 2em;
+}
+
+.hero_title {
+	font-size: 6em;
+    font-style: normal;
+    padding-left: .5em;
+    border-left: solid;
+    border-color: var(--color200);
+}
+
+.hero_subtitle {
+    font-size: 1.5em;
+    color: var(--color200);
+    line-height: 1.5em;
+	font-style: italic;
+}
+
+/* Article List Page Class Styles */
+
+
+.article_feed {
+    border-style: solid;
+    border-radius: 1em;
+    padding: 3em;
+    margin-bottom: 4em;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+
+.article_feed:hover {
+    background-color: var(--color600);
+}
+
+.article_left {
+    float: left;
+    padding-right: 2em;
+    max-width: 35%;
+    min-width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.article_right {
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: solid;
+}
+
+.article_title {
+    text-decoration: none;
+    color: var(--color200);
+    font-style: italic;
+}
+
+.date {
+    font-style: italic;
+    color: var(--color300);
+    font-size: .9em;
+}
+
+.description {
+    color: var(--color300);
+    display: inline-block;
+    padding: 1em;
+}
+
+/* Footer Class Styles */
+
+.container {
+    min-height: 100vh;    
+    display: flex;
+    flex-direction: column;
+}
+
+.site-footer{
+    text-align: right;
+    font-size: .8em;
+    margin-top: auto;
+    padding-top: 3em;
+    color: var(--color400);
+}

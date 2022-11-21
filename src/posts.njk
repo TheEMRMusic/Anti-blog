@@ -1,0 +1,31 @@
+---
+title: Anti-Blog
+layout: 'base.njk'
+---
+
+<div>
+<h1>Posts</h1>
+
+<ul>
+
+  {%- for post in collections.post | reverse -%}
+
+  <p class="date">{{ post.data.date | postDate }}</p>
+  <a href="{{ post.url }}">
+      <article class="article_feed">
+        <div class="article_left">
+          <h4 class="article_title">{{ post.data.title }} </h4>
+        </div>
+        <div class="article_right">
+          <p class="description">{{ post.data.description }}</p> 
+        </div>
+      </article>
+  </a>
+  {%- endfor %}
+
+</ul>
+
+</div>
+
+
+
