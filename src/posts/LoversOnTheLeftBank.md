@@ -16,7 +16,7 @@ Jacques Demy and Agnès Varda met at a French film festival in 1958. Jacques, wh
 
 ![tumblr_pp9v4bfQzn1rce5tlo1_1280.jpeg](https://64.media.tumblr.com/4b61cd1548565b502a17c1be6f0ddc14/tumblr_pp9v4bfQzn1rce5tlo1_1280.jpg)
 
-Jacques and Agnès on vacation in Brazil
+>Jacques and Agnès on vacation in Brazil
 
 After World War II, France focused their economic efforts on rebuilding what was lost, which left new, emerging artists without much financial support. This bred a new generation of young, scrappy filmmakers: rebellious, introspective, and above all, resourceful. The movement saw wide international popularity and influence, most notably the films of Jean-Luc Godard and François Truffaut, who began their careers as film critics in the popular magazine *Cahiers du Cinéma*. Calling themselves The French New Wave, they attacked their work from a critical angle, hoping to evolve the form into something new. But their perspectives were often limited to their own personal worldviews: white, male, and upper-middle class.
 
