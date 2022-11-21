@@ -357,9 +357,10 @@ table td {
     .article_feed {
     	padding: 1em !important;
 	flex-direction: column !important;
+	-webkit-text-decoration: none !important;
 	}
 
-    .article_feed a:link {
+    .article_feed a {
     	text-decoration: none !important;
 	}
 
