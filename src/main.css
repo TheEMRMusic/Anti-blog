@@ -329,7 +329,7 @@ table td {
 
 @media screen and (max-width:640px) {
     html {
-	width: 90vw !important;
+	width: 87vw !important;
 	font-size: 90% !important;
 	}
 	
@@ -355,13 +355,14 @@ table td {
 	}
 	
     .article_feed {
-    	padding: 1em !important;
+    	padding: none !important;
 	flex-direction: column !important;
 	-webkit-text-decoration: none !important;
 	}
 
     .article_feed a {
     	text-decoration: none !important;
+	-webkit-text-decoration: none !important;
 	}
 
     .article_left {
