@@ -43,12 +43,6 @@ html {
   -ms-text-size-adjust: 70%;
 }
 
-@media screen and (max-width:640px) {
-    html {width: 98vw !important;
-	font-size: 80% !important;}
-    img,
-    picture {max-width: 100% !important;}
-}
 
 /* Make images easier to work with */
 img,
@@ -326,4 +320,21 @@ table td {
     margin-top: auto;
     padding-top: 3em;
     color: var(--color400);
+}
+
+/* Mobile Styles */
+
+@media screen and (max-width:640px) {
+    html {width: 95vw !important;
+	font-size: 80% !important;}
+    img,
+    picture {max-width: 100% !important;}
+    .article_feed {
+    	padding: 1em !important;
+    	text-decoration: none !important;
+	}
+
+.article_left {
+    	padding-right: 1em !important;
+	}
 }
