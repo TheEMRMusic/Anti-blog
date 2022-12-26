@@ -5,7 +5,7 @@ date: 2022-12-31
 tags: ["post", "books", "review", "slow reading", "marxism"]
 image: /assets/blog/karlmarx.jpg
 imageAlt: Karl Marx
-description: My collected thoughts on slow reading _Capital, Volume I_ by Karl Marx over the course of 2022. What I've learned, what we *could* learn, and why you should, too --- regardless of your politics.
+description: My collected thoughts on slow reading Capital, Volume I by Karl Marx over the course of 2022. What I've learned, what we could learn, and why you should, too --- regardless of your politics.
 ---
 
 
@@ -68,7 +68,7 @@ What I discovered was unsurprising: I was continually filtering Marx's ideas thr
 
 Consider this passage from Chapter 10: The Working Day where Marx dissects the ineffectual Factory Act of 1850, which sought to place limitations on the working day to set hours, yet lacked any meaningful penalties for violations:
 
-> 'The profit to be gained by it' (over-working in violation of the Act) 'appears to be, to many, a greater temptation than they can resist; ==they calculate upon the chance of not being found out; and when they see the small amount of penalty and costs, which those who have been convicted have had to pay, they find that if they should be detected there will still be a considerable balance of gain...== In cases where the additional time is gained by a multiplication of small thefts in the course of the day, there are insuperable difficulties to the inspector making out a case.'
+> 'The profit to be gained by it' (over-working in violation of the Act) 'appears to be, to many, a greater temptation than they can resist; ```they calculate upon the chance of not being found out; and when they see the small amount of penalty and costs, which those who have been convicted have had to pay, they find that if they should be detected there will still be a considerable balance of gain...``` In cases where the additional time is gained by a multiplication of small thefts in the course of the day, there are insuperable difficulties to the inspector making out a case.'
 >
 > These 'small thefts' of capital from the workers' meal-times and recreation times are also described by the factory inspectors as 'petty pilferings of minutes,' 'snatching a few minutes' or, in the technical language of the workers, 'nibbling and cribbling at meal-times.'
 
@@ -78,7 +78,7 @@ If the fines can't outweigh the profits, then perhaps the law was never meant to
 
 Here's a later passage from Chapter 25: The General Law of Capitalist Accumulation detailing the necessity of an unemployed population for increased productivity:
 
-> The over-work of the employed part of the working class swells the ranks of its reserve while, conversely, the greater pressure that the reserve by its competition exerts on the employed workers forces them to submit to over-work and subject them to the dictates of capital. The condemnation of one part of the working class to enforced idleness by the over-work of the other part, and vice versa, becomes a means of enriching the individual capitalists...
+> The over-work of the employed part of the working class swells the ranks of its reserve while, conversely, the greater pressure that the reserve by its competition exerts on the employed workers forces them to submit to over-work and subject them to the dictates of capital. ```The condemnation of one part of the working class to enforced idleness by the over-work of the other part, and vice versa, becomes a means of enriching the individual capitalists...```
 
 Here, Marx is laying plain the necessity for a sizable unemployed "reserve army" for continued production. By having large swaths of unemployed people at the ready to take your job, your employer can keep you in a constant state of over-work. But by over-working yourself beyond the typical bounds of productivity, you are then placing someone else out of work... possibly even yourself.
 

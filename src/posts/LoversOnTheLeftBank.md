@@ -8,8 +8,6 @@ imageAlt: This is a test
 description: A guest article for The Barn's Rooster Revue newsletter exploring the partnership of Jacques Demy and Agnès Varda - the power couple behind so many French movie musicals - and the influence they had on each other's work.
 ---
 
-# Lovers On The Left Bank
-
 *The World of Jacques Demy* opens with a young fan reading a letter she had written to the late director years prior, thanking him for his life and work. What follows is a series of non-chronological anecdotes, each offering a sincere memory of how Jacques had changed the course of their lives. A bus driver in Nantes. A gardener who creates elaborate topiaries. Harrison Ford. It's a unique portrait of an artist told through a mosaic of reflections. But what's more fascinating that the man on the screen is the woman behind the camera. An artist who painted her subject with careful, emotional strokes - who knew her subject more intimately than anyone else. A confidant. A partner. An equal.
 
 Jacques Demy and Agnès Varda met at a French film festival in 1958. Jacques, who is now celebrated as a titan of French cinema due to his lavish movie musicals, was only just beginning a solo filmmaking career after a brief period as an assistant in animation and documentaries. Agnès, however, was already somewhat of an underground icon. Her 1955 low-budget debut *La Pointe Courte* gained widespread critical acclaim among her peers, and is now recognized as the birth of an entire cinematic revolution. Immediately smitten with each other, they moved in together a year later and married in 1962. Together, they were determined to create a new language for film: passionate, sincere, and real.
