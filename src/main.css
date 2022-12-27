@@ -1,12 +1,12 @@
 :root {
 
     --color100: #D88373;
-	--color200: #fffcf2;
+	--color200: #252422;
 	--color300: #C0B585;
 	--color400: #857676;
 	--color500: #695E5E;
 	--color600: #4D4343;
-	--color700: #252422;
+	--color700: #fffcf2;
 	--color800: #111111;
 
     --colorlink: #C0B585;
@@ -15,7 +15,7 @@
       --color800: #191919;
       */
 
-    --bg-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23252422' fill-opacity='.95' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    --bg-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23252422' fill-opacity='.75' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 @font-face {
