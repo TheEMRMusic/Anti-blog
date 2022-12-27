@@ -7,9 +7,13 @@
 	--color500: #695E5E;
 	--color600: #4D4343;
 	--color700: #252422;
-	--color800: #191918;
+	--color800: #111111;
 
-    --colorlink: #6B91A5;
+    --colorlink: #C0B585;
+
+   /* --colorlink: #6B91A5; 
+      --color800: #191919;
+      */
 
     --bg-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23252422' fill-opacity='.95' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
@@ -51,13 +55,22 @@ html {
 
 /* Make images easier to work with */
 img,
-picture,
-figure {
+picture {
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+
   border-radius: 1em;
+  border-style: solid;
+  border-color: var(--color100);
+  border-width: .25em;
+}
+
+figure {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body {
@@ -138,7 +151,7 @@ a {
     text-decoration: none !important;
 }
 a:hover {
-	color: var(--color300);
+	color: var(--color100);
 }
 p {
     margin-top:0;
@@ -239,7 +252,7 @@ table td {
   overflow: hidden;
   border-bottom: solid;
   border-width: .05em;
-  border-color: var(--color100);
+  border-color: var(--color200);
 }
 
 .nav_link {
@@ -299,6 +312,7 @@ table td {
     border-style: solid;
     border-width: .05em;
     border-radius: 1em;
+
     padding: 3em;
     margin-bottom: 4em;
     display: flex;
@@ -335,18 +349,18 @@ table td {
 
 .article_title {
     text-decoration: none;
-    color: var(--color100);
+    color: var(--color200);
     font-style: italic;
 }
 
 .date {
     font-style: italic;
-    color: var(--color300);
+    color: var(--color100);
     font-size: .9em;
 }
 
 .description {
-    color: var(--color200);
+    color: var(--color300);
     display: inline-block;
     padding: 1em;
 }
@@ -372,7 +386,7 @@ table td {
 @media screen and (max-width:640px) {
     html {
 	width: 87vw !important;
-	font-size: 75% !important;
+	font-size: 80% !important;
 	}
 	
     body {
@@ -419,8 +433,8 @@ table td {
 
     .article_left {
     	padding-right: 1em !important;
-	padding-left: 1em !important;
-	margin: auto;
+	    padding-left: 1em !important;
+	    margin: auto;
     	max-width: none !important;
     	min-width: none !important;
 	}
