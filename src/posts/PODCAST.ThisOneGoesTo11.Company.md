@@ -14,8 +14,8 @@ description: "This One Goes to 11 has me on to prove that the 2006 Broadway Revi
 - **[LINK TO EPISODE](https://open.spotify.com/episode/1VippKculiPNlviLaClnKX?si=2KWczfRFR0yMm55HuxaxKw)**
 
 >Here's to Chicago-based composer, Cinderella's Prince, and all-around swell fella Eric Matthew Richardson as he makes a case for the 2006 Broadway revival cast recording of Stephen Sondheim's Company. Everybody rise!
-
-Listen to Eric's appearance on the Putting It Together podcast talking about the "Co-Op" episode of Documentary Now! And check out his online interactive horror-comedy musical experience The LEA Project.
+>
+>Listen to Eric's appearance on the Putting It Together podcast talking about the "Co-Op" episode of Documentary Now! And check out his online interactive horror-comedy musical experience The LEA Project.
 
 ## About *This One Goes to 11*
 
