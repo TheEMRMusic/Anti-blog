@@ -60,6 +60,9 @@ picture {
   border-style: solid;
   border-color: var(--color100);
   border-width: .25em;
+	
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 figure {
