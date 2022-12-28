@@ -14,7 +14,7 @@ description: 'I join a panel of guests to talk shop about musical theatre, as we
 - **[LINK TO EPISODE](https://scenetosong.podbean.com/e/scene-to-song-episode-86-season-5-finale/)**
 
 >In this episode, eight of this season's guests--Eric Matthew Richardson (Episode 72: Disney Parks Music as Musical Theater), Emel Greer (Episode 73: Evil Characters in Musical Theater), Tammy Tuckey (Episode 75: Marvin Hamlisch, David Zippel, and Neil Simon’s The Goodbye Girl), David Armstrong (Episode 79: Marc Shaiman, Scott Wittman, Mark O’Donnell, and Thomas Meehan’s Hairspray), Ilana Kresch (Episode 80: Jule Styne, Bob Merrill, and Isobel Lennart’s Funny Girl), Orian Israelsohn (Episode 81: Andrew Lloyd Webber, Charles Hart, and Richard Stilgoe’s The Phantom of the Opera), Marc Eliot Stein (Episode 82: John O’Hara, Lorenz Hart, and Richard Rodgers’s Pal Joey), and Rose Ginsberg (Episode 84: Abolition in Musical Theater), as well as BethAnn Cohen--return to discuss the topics from the season and listener questions and comments. We also discuss the song "Inner White Girl" from the 2022 Michael R. Jackson musical A Strange Loop.
-
+>
 >This discussion was held live on Sunday, December 18th on Scene to Song’s Facebook page, and was recorded for this podcast almost in its entirety. Scene to Song will be going on a brief hiatus to prepare for Season six and will return in early 2023. 
 
 ## About *Scene To Song*
