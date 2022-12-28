@@ -1,5 +1,5 @@
 ---
-title: 'PODCAST: "Everything's Coming Up Roses" - Putting It Together'
+title: "PODCAST: Everything's Coming Up Roses - Putting It Together"
 author: Eric Matthew Richardson
 date: 2019-02-20
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
