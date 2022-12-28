@@ -9,17 +9,25 @@ layout: 'base_rootstyle.njk'
     <h1>
       {{ title }}
     </h1>
+    <h4 class="article_date">
+      {{  page.date | postDate  }}
+    </h4>
     <figure>
       <img src="{{ image }}" alt="{{ imageAlt }}">
       <figcaption>
         {{ imageAlt }}
       </figcaption>
     </figure>
+
+  <div class="content">
+
     <desc>
       {{ description }}
     </desc>
     
     {{ content | safe }}
+
+    </div>
   
 </div>
 </article>
