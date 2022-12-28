@@ -2,7 +2,7 @@
 title: "PODCAST: Scene to Song Season 5 Finale"
 author: Eric Matthew Richardson
 date: 2022-12-27
-tags: ["post", "podcast", "theme parks", "disney," "musicals", "theatre"]
+tags: ["post", "podcast", "theme parks", "disney", "musicals", "theatre"]
 image: /assets/blog/scenetosong.jpg
 imageAlt: Scene to Song
 description: 'I join a panel of guests to talk shop about musical theatre, as well as the song "Inner White Girl" from A Strange Loop.'
