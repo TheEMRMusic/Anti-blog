@@ -8,7 +8,7 @@ imageAlt: Putting It Together
 description: I join the Putting It Together Five-Timers Club and discuss my favorite song from Company.
 ---
 
-## "Overture" – Company (with Eric Matthew Richardson)
+## "Being Alive" – Company (with Eric Matthew Richardson)
 
 
 - **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s6/19)**
