@@ -15,13 +15,6 @@ description: I hop on the Scene to Song podcast to convince you that theme parks
 
 >In this episode, composer and writer Eric Matthew Richardson discusses Disney parks music as musical theater and a bit of history as to how they were constructed that way. We also talk about the Robert Lopez and Kristen Anderson-Lopez's song "The Big Blue World (Reprise)" from their 2007 Disney parks musical Finding Nemo: The Musical.
 
->Music played in this episode:
->"Who's Afraid of the Big Bad Wolf" written by Frank Churchill with additional lyrics by Ann Ronell which originally featured in the 1933 Disney cartoon Three Little Pigs
->"The Tiki, Tiki, Tiki Room" by the Sherman Brothers
->"There's a Great Big Beautiful Tomorrow" by the Sherman Brothers
->"It's a Small World" by the Sherman Brothers, sung by Richard Sherman and Alan Menken at the D23 Expo
->"Grim, Grinning Ghosts" composed by Buddy Baker, with lyrics written by X Atencio
->"The Big Blue World (Reprise)" from Finding Nemo: The Musical
 
 ## About *Scene To Song*
 
