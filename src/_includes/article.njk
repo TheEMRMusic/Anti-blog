@@ -5,6 +5,10 @@ layout: 'base_rootstyle.njk'
 
 <article>
 <div>
+
+    <h4 class="date">
+      {{  page.date | postDate  }}
+    </h4>
   
     <h1 class="title">
       {{ title }}
@@ -12,9 +16,6 @@ layout: 'base_rootstyle.njk'
     <h2 class="subtitle">
       {{ subtitle }}
     </h2>
-    <h4 class="date">
-      {{  page.date | postDate  }}
-    </h4>
     <figure>
       <img src="{{ image }}" alt="{{ imageAlt }}">
     </figure>

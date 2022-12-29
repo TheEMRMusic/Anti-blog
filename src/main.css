@@ -2,7 +2,7 @@
     --color100: #484848;
     --color200: #0f0f0f;
 	--color300: #eb5c34;
-	--color400: #857676;
+	--color400: #40807E;
 	--color500: #695E5E;
 	--color600: #4D4343;
 	--color700: #f0f0f0;
@@ -60,8 +60,6 @@ picture {
   margin-right: auto;
 
   border-radius: 1em;
-  border-style: solid;
-  border-color: var(--color100);
   border-width: .25em;
 
   opacity: .75;
@@ -276,7 +274,7 @@ table td {
 
 
 .title {
-    margin-bottom: 0;
+    margin-bottom: .15em;
 }
 
 .subtitle {
@@ -284,13 +282,16 @@ table td {
     font-size: 3em;
     font-weight: bold;
     margin-top: 0;
-    margin-bottom: .25em;
-    color: var(--color200);
+    margin-bottom: .15em;
+    color: var(--color100);
+    font-style: normal;
 }
 
 .date {
     font-size: 1.25em;
     margin-top: 0;
+    color: var(--color400);
+    text-align: right;
 }
 
 /* Nav Bar Class Styling */
@@ -415,7 +416,7 @@ table td {
 
 .article_subtitle {
     text-decoration: none;
-    color: var(--color100);
+    color: var(--color400);
     font-style: italic;
     margin-top: .5em;
 }
@@ -448,13 +449,13 @@ table td {
     text-align: right;
     font-size: .7em;
     margin-top: auto;
-    padding-top: 3em;
 
     color: var(--color100);
+
     display: flex;
     flex-direction: row;
-    justify-content: end;
-    align-items: center;
+    justify-content: space-between;
+    align-items: right;
 
     gap: 1em;
 }
@@ -463,10 +464,10 @@ table td {
     text-align: left;
     display: flex;
     list-style-type: none;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
 
-    border-left: solid;
+    gap: 2em;
 }
 
 /* Mobile Styles */
@@ -512,12 +513,12 @@ table td {
         font-weight: bold;
         margin-top: 0;
         margin-bottom: .25em;
-        color: var(--color200);
     }
 
     .title,
     .subtitle {
         margin-bottom: .25em;
+        line-height: 1.5em;
     }
     
     .date {

@@ -1,5 +1,6 @@
 ---
 title: Lovers On The Left Bank
+subtitle: Demy, Varda, and the French New Wave
 author: Eric Matthew Richardson
 date: 2022-08-09
 tags: ["post", "read", "article", "musicals"]
