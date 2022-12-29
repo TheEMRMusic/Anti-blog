@@ -1,5 +1,6 @@
 ---
-title: "PODCAST: Scene to Song Season 5 Finale"
+title: "Season 5 Finale"
+subtitle: Scene to Song
 author: Eric Matthew Richardson
 date: 2022-12-27
 tags: ["post", "podcast", "theme parks", "disney", "musicals", "theatre"]

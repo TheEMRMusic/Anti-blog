@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: It Would Have Been Wonderful / Perpetual Anticipation"
+title: '"Come Play Wiz Me" from Anyone Can Whistle'
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2020-04-08
+date: 2019-08-14
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: I return to Putting It Together to talk about two songs from A Little Night Music.
+description: My return to Putting It Together to discuss a very strange song from a very strange show.
 ---
 
-## "It Would Have Been Wonderful / Perpetual Anticipation" – A Little Night Music (with Eric Matthew Richardson)
+## Come Play Wiz Me – Anyone Can Whistle (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s8/14)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s4/6)**
 
->Eric Matthew Richardson returns! This time to discuss two songs from Act 2 of A Little Night Music. The first has two men preening like peacocks. The second is all about anticipation without the need of a Satanic mechanic.
+>Kyle's ability to do a French accent isn't very good. But this song, Come Play Wiz Me, is a fascinating example of pastiche. It's a musical style in which Stephen Sondheim is well known for. Eric Matthew Richardson returns to offer his expertise on that, plus gives a bunch of references ranging from Shakespeare to Monty Python.
 
 ## About *Putting It Together*
 

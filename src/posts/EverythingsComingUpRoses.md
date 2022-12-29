@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Tick, Tick... Boom!"
+title: "\"Everything's Coming Up Roses\" from Gypsy"
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2022-01-31
+date: 2019-02-20
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: I return to Putting It Together for a little Sondheim ajacent discussion.
+description: My first guest appearance on the Putting It Together podcast in which I discuss the song "Everything's Coming Up Roses" from the musical Gypsy.
 ---
 
-## "Tick, Tick... Boom!"" – Sondheim Adjacent (with Eric Matthew Richardson)
+## Everything's Coming Up Roses – Gypsy (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s13/8)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s2/9)**
 
->Stephen Sondheim plays a huge role in the film Tick, Tick... Boom! Eric Matthew Richardson returns to discuss why teachers are important and whether the movie works.
+>Eric Matthew Richardson is a composer who lives in Chicago. He may or may not have some radical things to say about "Everything's Coming Up Roses," the song that closes Act 1 of *Gypsy*. Certainly he is knowledgable about the song and the history of the show. Plus, we hear some audio snippets from Arthur Laurents as he discusses not only Gypsy, but what makes a good musical director.
 
 ## About *Putting It Together*
 
@@ -34,3 +35,4 @@ Send feedback to puttingittogetherpodcast@gmail.com
 *Putting It Together is a proud member of The Alberta Podcast Network, powered by ATB.*
 
 *Recorded at Media Lab YYC. Media Lab is a public production studio located in downtown Calgary, Alberta. They help you tell your story. They do this by assisting in the creation of videos and podcasts. Find more information at [http://medialabyyc.com](http://medialabyyc.com)*
+

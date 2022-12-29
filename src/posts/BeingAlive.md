@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Company Overture"
+title: '"Being Alive" from Company'
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2019-12-11
+date: 2020-04-08
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: My return to Putting It Together to discuss the opening number to the Sondheim classic.
+description: I join the Putting It Together Five-Timers Club and discuss my favorite song from Company.
 ---
 
-## "Overture" – Company (with Eric Matthew Richardson)
+## "Being Alive" – Company (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s6/1)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s6/19)**
 
->Company was the "coming out" of Stephen Sondheim as a composer to be reckoned with. In this episode Eric Matthew Richardson returns to talk about the 1970s, minimalism, and why a show that shouldn't work absolutely does.
+>This is what its all been leading to. Being Alive is the culmination of the entire show. Eric Matthew Richardson returns to discuss being held too tight and why Kyle is sitting in his chair.
 
 ## About *Putting It Together*
 

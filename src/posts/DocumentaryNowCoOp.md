@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Merrily Overture"
+title: '"Original Cast Album: Co-Op" from Documentary Now!'
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2022-09-07
+date: 2019-03-04
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: I return to Putting It Together to talk about the overture to a controversial Sondheim show.
+description: "My return to Putting It Together to discuss Documentary Now!'s parody of the classic Sondheim doc."
 ---
 
-## "Overture" – Merrily We Roll Along & additional backstory (with Eric Matthew Richardson)
+## "Original Cast Album: Co-Op" from Documentary Now! *BONUS EPISODE* (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s15/2)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s2/11)**
 
->It's considered one of the best overtures in all of musical theatre. Eric Matthew Richardson returns to the show to discuss how the overture sets the tone for the show and the backstory of how this musical came to be.
+>John Mulaney and Seth Meyers co-wrote an episode of the IFC show Documentary Now! In it they parody the classic documentary about the musical Company. Kyle invites on Eric Matthew Richardson to discuss their thoughts about what worked, what didn't, and wonder if anyone is going to understand it.
 
 ## About *Putting It Together*
 

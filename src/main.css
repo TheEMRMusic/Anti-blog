@@ -1,16 +1,17 @@
 :root {
     --color100: #484848;
     --color200: #0f0f0f;
-	--color300: #FF4F00;
+	--color300: #eb5c34;
 	--color400: #857676;
 	--color500: #695E5E;
 	--color600: #4D4343;
 	--color700: #f0f0f0;
     --color800: #e2e2e2;
 
-    --colorlink: #FF4F00;
+    --colorlink: #eb5c34;
 
     --bg-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%231C1B1B' fill-opacity='.5' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    --bg-image2: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%231C1B1B' fill-opacity='.15' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 @font-face {
@@ -36,6 +37,8 @@
         font-style: italic;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,700;1,700&display=swap');
+
 html {
   font-size: 75%;
   overflow-y: scroll;
@@ -60,6 +63,8 @@ picture {
   border-style: solid;
   border-color: var(--color100);
   border-width: .25em;
+
+  opacity: .75;
 	
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -132,11 +137,14 @@ p {
     margin-bottom: 1em;
 }
 h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 5em;
     font-weight: bold;
+    font-style: normal;
 }
 h2 {
     font-size: 2.5em;
+    font-weight: bold;
 }
 h3 {
     font-size: 2em;
@@ -176,8 +184,8 @@ pre {
     white-space: pre-wrap;
 }
 code {
-    color: var(--color800);
-    background-color: var(--color300);
+    color: var(--color100);
+    background-color: var(--color800);
 
     font-family: 'HappyTimes';
     text-align: justify;
@@ -209,7 +217,7 @@ aside {
 blockquote {
     font-style: italic;
     padding: 1em;
-    background-color: var(--color800);
+    background-color: var(--color100);
     background-image: var(--bg-image);
 
     border-radius: 1em;
@@ -221,7 +229,7 @@ blockquote {
     margin-right: 1em;
 }
 blockquote p {
-    color: var(--color300);
+    color: var(--color800);
 	padding-left: .5em;
 }
 figcaption {
@@ -262,6 +270,27 @@ table td {
     border-style: solid;
     border-width: .25em;
     border-color: var(--color100);
+
+    background-image: var(--bg-image2);
+}
+
+
+.title {
+    margin-bottom: 0;
+}
+
+.subtitle {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: .25em;
+    color: var(--color200);
+}
+
+.date {
+    font-size: 1.25em;
+    margin-top: 0;
 }
 
 /* Nav Bar Class Styling */
@@ -297,7 +326,7 @@ table td {
 }
 
 .nav_link a:hover {
-    color: var(--color100);
+    color: var(--colorlink);
   }
 
 
@@ -318,25 +347,17 @@ table td {
     padding-left: .5em;
     border-left: solid;
     border-width: .05em !important;
-    border-color: var(--color100);
-}
-
-.hero_subtitle {
-    font-size: 1.5em;
-    color: var(--color200);
-    line-height: 1.5em;
-    font-style: italic;
+    border-color: var(--color300);
 }
 
 /* Article List Page Class Styles */
-
 
 .article_feed {
     border-style: solid;
     border-width: .25em;
     border-radius: 1em;
 
-    padding: 3em;
+    padding: 2em;
     margin-bottom: 4em;
     display: flex;
     justify-content: left;
@@ -344,24 +365,32 @@ table td {
     text-decoration: none;
 	
     background-color: var(--color700);
+    background-image: var(--bg-image2);
     border-color: var(--color200);
     
     -webkit-box-shadow: none!important;
     box-shadow: none!important;
 }
 
-.article_feed:hover {
+.article_feed:hover,
+.article_feed:hover .article_right {
     border-color: var(--colorlink);
 }
 
 .article_left {
     float: left;
-    padding-right: 2em;
+    padding-right: 1em;
     max-width: 35%;
     min-width: 35%;
+
+    text-align: left;
+
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: left;
+
+    gap: .25em;
 }
 
 .article_right {
@@ -370,6 +399,7 @@ table td {
     justify-content: center;
     align-items: center;
     border-left: solid;
+    border-color: var(--color200);
     border-width: .25em;
 }
 
@@ -377,9 +407,24 @@ table td {
     text-decoration: none;
     color: var(--color200);
     font-style: italic;
+    margin-top: 0em;
+    margin-bottom: 0em;
+
+    font-size: 2em;
 }
 
-.date {
+.article_subtitle {
+    text-decoration: none;
+    color: var(--color100);
+    font-style: italic;
+    margin-top: .5em;
+}
+
+.article_subtitle:empty { 
+    display: none;
+}
+
+.article_date {
     font-style: italic;
     color: var(--color100);
     font-size: .9em;
@@ -394,17 +439,34 @@ table td {
 /* Footer Class Styles */
 
 .container {
-    min-height: 100vh;    
+    min-height: 100vh;  
     display: flex;
     flex-direction: column;
 }
 
 .site-footer{
     text-align: right;
-    font-size: .8em;
+    font-size: .7em;
     margin-top: auto;
     padding-top: 3em;
+
     color: var(--color100);
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+
+    gap: 1em;
+}
+
+.footer_links {
+    text-align: left;
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+    justify-content: space-between;
+
+    border-left: solid;
 }
 
 /* Mobile Styles */
@@ -412,7 +474,7 @@ table td {
 @media screen and (max-width:640px) {
     html {
 	width: 87vw !important;
-	font-size: 80% !important;
+	font-size: 85% !important;
 	}
 	
     body {
@@ -430,6 +492,37 @@ table td {
     blockquote {
         margin-left: 0em !important;
         margin-right: 0em !important;
+    }
+
+    .nav {
+        font-size: 90%;
+        padding: .5em 0 .5em 0;
+      }
+
+    .nav_link a {
+        font-style: normal !important;
+    }
+
+    .title {
+        margin-bottom: 0;
+    }
+    
+    .subtitle {
+        font-size: 2em;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: .25em;
+        color: var(--color200);
+    }
+
+    .title,
+    .subtitle {
+        margin-bottom: .25em;
+    }
+    
+    .date {
+        font-size: 1em;
+        margin-top: 0;
     }
 
 
@@ -463,9 +556,27 @@ table td {
 	    margin: auto;
     	max-width: none !important;
     	min-width: none !important;
+
+        text-align: center !important;
+        align-items: center !important;
 	}
 	
     .article_right {
 	border: none !important;
 	}
+
+    .article_title {
+        margin-top: .5em;
+    }
+
+    .article_subtitle {
+        margin-bottom: .5em;
+    }
+
+    .article_title, 
+    .article_subtitle,
+    .description {
+        text-align: center !important;
+    }
+    
 }

@@ -1,23 +1,23 @@
 ---
-title: Posts
+title: Read
 layout: 'base.njk'
 ---
 
 <div>
-<h1>Posts</h1>
+<h1>Read:</h1>
 
 <ul>
 
-  {%- for post in collections.post | reverse -%}
+  {%- for post in collections.read | reverse -%}
 
-  <p class="date">{{ post.data.date | postDate }}</p>
+  <p class="article_date">{{ post.data.date | postDate }}</p>
   <a href="{{ post.url }}">
       <article class="article_feed">
         <div class="article_left">
           <h4 class="article_title">{{ post.data.title }} </h4>
+          <h5 class="article_subtitle">{{ post.data.subtitle }}</h5>
         </div>
         <div class="article_right">
-          <h5 class="subtitle">{{ post.data.subtitle }}</h5>
           <p class="description">{{ post.data.description }}</p> 
         </div>
       </article>

@@ -2,7 +2,7 @@
 title: Das Kapitaljahr
 author: Eric Matthew Richardson
 date: 2022-12-31
-tags: ["post", "books", "review", "slow reading", "marxism"]
+tags: ["post", "read", "books", "review", "slow reading", "marxism"]
 image: /assets/blog/karlmarx.jpg
 imageAlt: Karl Marx
 description: My collected thoughts on slow reading Capital, Volume I by Karl Marx over the course of 2022. What I've learned, what we could learn, and why you should, too --- regardless of your politics.

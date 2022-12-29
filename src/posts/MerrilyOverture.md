@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Come Play Wiz Me"
+title: '"Overture" from Merrily We Roll Along'
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2019-08-14
+date: 2022-09-07
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: My return to Putting It Together to discuss a very strange song from a very strange show.
+description: I return to Putting It Together to talk about the overture to a controversial Sondheim show.
 ---
 
-## Come Play Wiz Me – Anyone Can Whistle (with Eric Matthew Richardson)
+## "Overture" – Merrily We Roll Along & additional backstory (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s4/6)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s15/2)**
 
->Kyle's ability to do a French accent isn't very good. But this song, Come Play Wiz Me, is a fascinating example of pastiche. It's a musical style in which Stephen Sondheim is well known for. Eric Matthew Richardson returns to offer his expertise on that, plus gives a bunch of references ranging from Shakespeare to Monty Python.
+>It's considered one of the best overtures in all of musical theatre. Eric Matthew Richardson returns to the show to discuss how the overture sets the tone for the show and the backstory of how this musical came to be.
 
 ## About *Putting It Together*
 

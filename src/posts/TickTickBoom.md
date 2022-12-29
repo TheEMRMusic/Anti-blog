@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Rose's Turn"
+title: "Tick, Tick... Boom!"
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2021-10-06
+date: 2022-01-31
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: I return to Putting It Together to talk about an oldie but a goodie.
+description: I return to Putting It Together for a little Sondheim ajacent discussion.
 ---
 
-## "Rose's Turn" – Sondheim Redux (with Eric Matthew Richardson)
+## "Tick, Tick... Boom!"" – Sondheim Adjacent (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s8/14)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s13/8)**
 
->Although credited with only writing the lyrics, could Sondheim have had a larger influence on this song? Eric Matthew Richardson returns to discuss why Rose's Turn is great and how it's been interpreted over the years.
+>Stephen Sondheim plays a huge role in the film Tick, Tick... Boom! Eric Matthew Richardson returns to discuss why teachers are important and whether the movie works.
 
 ## About *Putting It Together*
 

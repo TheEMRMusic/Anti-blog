@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Being Alive"
+title: '"It Would Have Been Wonderful / Perpetual Anticipation" from A Litte Night Music'
+subtitle: Putting It Together
 author: Eric Matthew Richardson
 date: 2020-04-08
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: I join the Putting It Together Five-Timers Club and discuss my favorite song from Company.
+description: I return to Putting It Together to talk about two songs from A Little Night Music.
 ---
 
-## "Being Alive" – Company (with Eric Matthew Richardson)
+## "It Would Have Been Wonderful / Perpetual Anticipation" – A Little Night Music (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s6/19)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s8/14)**
 
->This is what its all been leading to. Being Alive is the culmination of the entire show. Eric Matthew Richardson returns to discuss being held too tight and why Kyle is sitting in his chair.
+>Eric Matthew Richardson returns! This time to discuss two songs from Act 2 of A Little Night Music. The first has two men preening like peacocks. The second is all about anticipation without the need of a Satanic mechanic.
 
 ## About *Putting It Together*
 

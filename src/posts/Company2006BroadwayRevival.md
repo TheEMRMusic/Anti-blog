@@ -1,6 +1,6 @@
 ---
-title: "PODCAST:"
-subtitle: "Eric Matthew Richardson Nominates Stephen Sondheim's Company"
+title: "Stephen Sondheim's Company (2006 Broadway Revival Cast Recording)"
+subtitle: This One Goes to 11
 author: Eric Matthew Richardson
 date: 2022-10-11
 tags: ["post", "podcast", "album", "sondheim", "musicals", "theatre"]

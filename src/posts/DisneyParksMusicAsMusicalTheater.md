@@ -1,5 +1,6 @@
 ---
-title: "PODCAST: Disney Parks Music as Musical Theater"
+title: "Disney Parks Music as Musical Theater"
+subtitle: Scene to Song
 author: Eric Matthew Richardson
 date: 2022-02-14
 tags: ["post", "podcast", "theme parks", "disney", "musicals", "theatre"]

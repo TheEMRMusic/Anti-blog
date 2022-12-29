@@ -1,19 +1,20 @@
 ---
-title: "PODCAST: Original Cast Album: Co-Op from Documentary Now!"
+title: "\"Rose's Turn\" from Gypsy"
+subtitle: Putting It Together
 author: Eric Matthew Richardson
-date: 2019-03-04
+date: 2021-10-06
 tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
-description: "My return to Putting It Together to discuss Documentary Now!'s parody of a classic Sondheim doc."
+description: I return to Putting It Together to talk about an oldie but a goodie.
 ---
 
-## "Original Cast Album: Co-Op" from Documentary Now! *BONUS EPISODE* (with Eric Matthew Richardson)
+## "Rose's Turn" – Sondheim Redux (with Eric Matthew Richardson)
 
 
-- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s2/11)**
+- **[LINK TO EPISODE](https://puttingittogether.transistor.fm/s8/14)**
 
->John Mulaney and Seth Meyers co-wrote an episode of the IFC show Documentary Now! In it they parody the classic documentary about the musical Company. Kyle invites on Eric Matthew Richardson to discuss their thoughts about what worked, what didn't, and wonder if anyone is going to understand it.
+>Although credited with only writing the lyrics, could Sondheim have had a larger influence on this song? Eric Matthew Richardson returns to discuss why Rose's Turn is great and how it's been interpreted over the years.
 
 ## About *Putting It Together*
 
