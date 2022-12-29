@@ -7,6 +7,7 @@ tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
 description: "My return to Putting It Together to discuss Documentary Now!'s parody of the classic Sondheim doc."
+twitter_card_type: summary_large_image
 ---
 
 ## "Original Cast Album: Co-Op" from Documentary Now! *BONUS EPISODE* (with Eric Matthew Richardson)

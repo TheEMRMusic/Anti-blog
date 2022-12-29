@@ -20,5 +20,8 @@
   "homepage": "https://github.com/TheEMRMusic/11ty-blog-site-NEW#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2"
+  },
+  "dependencies": {
+    "liquidjs": "^10.3.3"
   }
 }

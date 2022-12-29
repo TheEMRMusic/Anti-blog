@@ -7,6 +7,7 @@ tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
 description: My first guest appearance on the Putting It Together podcast in which I discuss the song "Everything's Coming Up Roses" from the musical Gypsy.
+twitter_card_type: summary_large_image
 ---
 
 ## Everything's Coming Up Roses – Gypsy (with Eric Matthew Richardson)

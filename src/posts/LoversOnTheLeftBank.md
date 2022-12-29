@@ -6,6 +6,7 @@ date: 2022-08-09
 tags: ["post", "read", "article", "musicals"]
 image: /assets/blog/DemyAndVarda.png
 description: A guest article for The Barn's Rooster Revue newsletter exploring the partnership of Jacques Demy and Agnès Varda - the power couple behind so many French movie musicals - and the influence they had on each other's work.
+twitter_card_type: summary_large_image
 ---
 
 *The World of Jacques Demy* opens with a young fan reading a letter she had written to the late director years prior, thanking him for his life and work. What follows is a series of non-chronological anecdotes, each offering a sincere memory of how Jacques had changed the course of their lives. A bus driver in Nantes. A gardener who creates elaborate topiaries. Harrison Ford. It's a unique portrait of an artist told through a mosaic of reflections. But what's more fascinating that the man on the screen is the woman behind the camera. An artist who painted her subject with careful, emotional strokes - who knew her subject more intimately than anyone else. A confidant. A partner. An equal.

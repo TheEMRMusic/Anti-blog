@@ -7,6 +7,7 @@ tags: ["post", "podcast", "theme parks", "disney", "musicals", "theatre"]
 image: /assets/blog/scenetosong.jpg
 imageAlt: Scene to Song
 description: I hop on the Scene to Song podcast to convince you that theme parks are theatre.
+twitter_card_type: summary_large_image
 ---
 
 ## Scene to Song Episode 72: Disney Parks Music as Musical Theater

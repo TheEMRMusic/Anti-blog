@@ -3,13 +3,20 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ title }}</title>
-    <meta name="description" content="">
+    <meta name="description" content="{{ description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:title" content="">
-    <meta property="og:type" content="">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="https://antiblog.ericmatthewrichardson.com{{ image }}">
+    <meta property="og:url" content="https://antiblog.ericmatthewrichardson.com{{ page.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!--  Non-Essential, But Recommended -->
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:site_name" content="Anti-Blog">
+    <meta name="twitter:image:alt" content="{{ imageAlt }}">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="apple-touch-icon" href="icon.png">

@@ -7,6 +7,7 @@ tags: ["post", "podcast", "theme parks", "disney", "musicals", "theatre"]
 image: /assets/blog/scenetosong.jpg
 imageAlt: Scene to Song
 description: 'I join a panel of guests to talk shop about musical theatre, as well as the song "Inner White Girl" from A Strange Loop.'
+twitter_card_type: summary_large_image
 ---
 
 ## Scene to Song Episode 86: Season 5 Finale

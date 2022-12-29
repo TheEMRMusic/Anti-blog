@@ -7,6 +7,7 @@ tags: ["post", "read", "books", "review", "slow reading", "marxism"]
 image: /assets/blog/karlmarx.jpg
 imageAlt: Karl Marx
 description: Some final words on slow reading Capital, Volume I by Karl Marx over the course of 2022, or, How I Learned to Stop Worrying and Love the Dialectic. My collected thoughts, small takeaways, and why you should read it, too -- regardless of your politics.
+twitter_card_type: summary_large_image
 ---
 
 

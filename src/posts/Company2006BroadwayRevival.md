@@ -7,6 +7,7 @@ tags: ["post", "podcast", "album", "sondheim", "musicals", "theatre"]
 image: /assets/blog/goesto11.jpg
 imageAlt: This One Goes to 11
 description: "This One Goes to 11 has me on to prove that the 2006 Broadway Revival Cast Recording of Stephen Sondheim's Company is a true 11 out of 10 album."
+twitter_card_type: summary_large_image
 ---
 
 ## Ep. 22: Eric Matthew Richardson Nominates Stephen Sondheim's "Company (2006 Broadway Revival Cast Recording)"

@@ -7,6 +7,7 @@ tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
 description: I return to Putting It Together to talk about the overture to a controversial Sondheim show.
+twitter_card_type: summary_large_image
 ---
 
 ## "Overture" – Merrily We Roll Along & additional backstory (with Eric Matthew Richardson)

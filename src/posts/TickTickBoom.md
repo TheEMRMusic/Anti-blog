@@ -7,6 +7,7 @@ tags: ["post", "podcast", "Sondheim", "musicals", "theatre"]
 image: /assets/blog/puttingittogether.jpg
 imageAlt: Putting It Together
 description: I return to Putting It Together for a little Sondheim ajacent discussion.
+twitter_card_type: summary_large_image
 ---
 
 ## "Tick, Tick... Boom!"" – Sondheim Adjacent (with Eric Matthew Richardson)
