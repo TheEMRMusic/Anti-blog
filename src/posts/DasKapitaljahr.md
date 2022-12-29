@@ -1,11 +1,12 @@
 ---
 title: Das Kapitaljahr
+subtitle: Slow Reading 2022
 author: Eric Matthew Richardson
 date: 2022-12-31
 tags: ["post", "read", "books", "review", "slow reading", "marxism"]
 image: /assets/blog/karlmarx.jpg
 imageAlt: Karl Marx
-description: My collected thoughts on slow reading Capital, Volume I by Karl Marx over the course of 2022. What I've learned, what we could learn, and why you should, too --- regardless of your politics.
+description: Some final words on slow reading Capital, Volume I by Karl Marx over the course of 2022, or, How I Learned to Stop Worrying and Love the Dialectic. My collected thoughts, small takeaways, and why you should read it, too -- regardless of your politics.
 ---
 
 
@@ -88,7 +89,7 @@ We've seen this same idea pop up time and time again over the last century. Most
 
 I think that more than anything, this reading project has taught me a new method of critical thinking. A new lens in which to view the world -- not just economically or socially, but perhaps even personally. Artistically. A way for me to better understand the people around me and our relationship to one another. 
 
-I'll be honest: I've encountered the word "dialectic" probably a thousand times before I truly internalized it. It's one of those fantastic leftist buzzwords that force me to immediately check out of a conversation. A nice little dog whistle to pepper into your artistic statements or instagram posts so people know you're a True Marxist^TM^. Dialectical materialism. Dialectical naturalism. Hegelian dialectic. Marxist dialectic. I'd seen it so much, I had fooled myself into understanding it. And perhaps I did in context, but not conceptually.
+I'll be honest: I've encountered the word "dialectic" probably a thousand times before I truly internalized it. It's one of those fantastic leftist buzzwords that force me to immediately check out of a conversation. A nice little dog whistle to pepper into your artistic statements or instagram posts so people know you're a True Marxist (TM). Dialectical materialism. Dialectical naturalism. Hegelian dialectic. Marxist dialectic. I'd seen it so much, I had fooled myself into understanding it. And perhaps I did in context, but not conceptually.
 
 But throughout _Capital_, Marx breaks down his thought process in a way that allowed me to better understand the dialectical method, or at the very least his interpretation of it. He was a devout student of Hegel, and applied his critical method not just to philosophical ideas but to the development of history and the economy.
 
